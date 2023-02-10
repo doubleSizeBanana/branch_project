@@ -18,7 +18,7 @@
 **Reference**
 - - - 
 [크집사 링크](https://www.dailypaws.com/cats-kittens/cat-breeds/savannah)
-* **Issue**
+**Issue**
 * * *
 * Issue 1
   - Issue 1-1
