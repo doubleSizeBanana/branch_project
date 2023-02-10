@@ -6,5 +6,7 @@
 ## installation
 * * *
 다음과 같이 설치 가능합니다.
+<pre><code>pip install cat_project</code></pre>
+### usage
+- - -
 <pre><code>print("고양이는 너무 귀여워요!!!")</code></pre>
-
